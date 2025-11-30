@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Computer Science Student from Indonesia<br><br>I'm currently a university student in Indonesia, and this GitHub serves as my personal portfolio.<br>I'm still learning and exploring the world of software development, especially web programming.<br><br>🌱 Still learning<br><br>📫 Contact <br>Linkedin : HafizhWidjaya
+👋 Hi, I'm a Computer Science Student from Indonesia<br><br>I'm currently a university student in Indonesia, and this GitHub serves as my personal portfolio.<br>I'm still learning and exploring the world of software development, especially web programming.<br><br>🌱 Still learning<br><br>
 
 
 ## 🌐 Socials:
